@@ -37,12 +37,6 @@ for event,elem in parser:
             text=text.lower()
         else: # we don't save pages without any text
             test = False
-            
-    if test and 'redirect' == elem.tag[43:]: # then this page should be skipped
-        test = False
-    
-    if test and 'id' == elem.tag[43:]: # Extract ID
-        ID = elem.text
     
     if test and 'page' == elem.tag[43:]: # we have reached the end of the page
                                          # plus we haven't met a 'redirect' tag
