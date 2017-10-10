@@ -1,0 +1,12 @@
+	Article	Match
+0	Cat	cats are similar in [[cat anatomy|anatomy
+1	Cat	cats are similar in [[cat anatomy
+2	Cat	cat anatomy|anatomy
+3	Cat	cat anatomy
+4	Cat	cat anatomy}} [[file:scheme cat anatomy.svg|thumb|upright=1.6|lang=en|diagram of the general [[anatomy
+5	Cat	cat anatomy}} [[file:scheme cat anatomy
+6	Cat	cat anatomy
+7	Cat	cat anatomy.svg|thumb|upright=1.6|lang=en|diagram of the general [[anatomy
+8	Cat	cat anatomy
+9	Cat	cat's [[gut (anatomy
+10	Cat	cat's large movable outer ears (their [[pinna (anatomy
