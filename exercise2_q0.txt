@@ -1,0 +1,15 @@
+	Article	Match
+0	Arnold Schwarzenegger	arnold schwarzenegger |publis
+1	Arnold Schwarzenegger	arnold schwarzenegger is
+2	Arnold Schwarzenegger	arnold-schwarzenegger-file-revis
+3	Arnold Schwarzenegger	arnold schwarzenegger is
+4	Arnold Schwarzenegger	arnold-schwarzenegger-is
+5	Arnold Schwarzenegger	arnold-schwarzeneggers-genis
+6	Arnold Schwarzenegger	arnold schwarzenegger |publis
+0	Action film	arnold schwarzenegger. this
+0	Ankh-Morpork City Watch	arnold schwarzenegger]], he is
+0	Arnold Schwarzenegger filmography	arnold schwarzenegger]] is
+1	Arnold Schwarzenegger filmography	arnold schwarzenegger|publis
+2	Arnold Schwarzenegger filmography	arnold schwarzenegger|publis
+3	Arnold Schwarzenegger filmography	arnold-schwarzenegger-is
+0	Alison Levine	arnold schwarzenegger]] in his

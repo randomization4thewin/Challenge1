@@ -1,0 +1,4 @@
+	Article	Match
+0	A	"first letter of the [[phoenician alphabet]],<ref name=""britannica"">{{harvnb|hoiberg|2010|p=1}}</ref> which consisted entirely of [[consonant"
+0	Abugida	first letters in the [[greek alphabet]], ''alpha'' and ''beta''. as daniels used the word, an abugida is in contrast with a [[syllabary]], where letters with shared consonant
+0	Alif	first letter of many semitic alphabets **[[dagger alif]] superscript alif in arabic alphabet * [[thaana|alif]], the eighth consonant

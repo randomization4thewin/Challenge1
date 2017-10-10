@@ -1,0 +1,3 @@
+	Article	Match
+0	Cat	"kitten]]"". the male progenitor of a cat, especially a pedigreed cat, is its ""sire"",<ref>{{cite web|url=http://www.oed.com/view/entry/180366?rskey=yylu4e&result=1&isadvanced=false#eid|title=sire|work=the oxford english dictionary|publisher=oxford"
+1	Cat	"kitten]]"". the male progenitor of a cat, especially a pedigreed cat, is its ""sire"",<ref>{{cite web|url=http://www.oed.com/view/entry/180366?rskey=yylu4e&result=1&isadvanced=false#eid|title=sire|work=the oxford"

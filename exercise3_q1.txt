@@ -1,0 +1,612 @@
+	Article	Match
+0	Aage Bohr	technical university of denmark
+1	Aage Bohr	technical university of denmark
+0	Copenhagen	technical university of denmark
+1	Copenhagen	technical university of denmark
+2	Copenhagen	technical university of denmark
+3	Copenhagen	technical-university-denmark
+4	Copenhagen	technical university of denmark
+0	List of cryptographers	technical university of denmark
+0	Enigma machine	technical university of denmark
+0	Eindhoven University of Technology	technical university of denmark
+1	Eindhoven University of Technology	technical university of denmark
+0	Hydrogen	technical university of denmark
+0	Iowa State University	technical university of denmark
+0	KAIST	technical university of denmark
+1	KAIST	technical university of denmark
+2	KAIST	technical university of denmark
+0	Nanoengineering	technical university of denmark
+0	November 5	technical university of denmark
+1	November 5	technical university of denmark
+0	Tor Nørretranders	technical university of denmark
+0	Tristan da Cunha	technical university of denmark
+0	The Skeptical Environmentalist	technical university of denmark
+0	1829	technical university of denmark
+1	1829	technical university of denmark
+0	Conference of European Schools for Advanced Engineering Education and Research	technical university of denmark
+0	Fuzzy control system	technical university of denmark
+0	Anders Hejlsberg	technical university of denmark
+1	Anders Hejlsberg	technical university of denmark
+0	Peter Naur	technical university of denmark
+1	Peter Naur	technical university of denmark
+2	Peter Naur	technical university of denmark
+0	Unmanned aerial vehicle	technical university of denmark
+0	Craig Barrett (chief executive)	technical university of denmark
+0	Piet Hein (scientist)	technical university of denmark
+0	Henrik Dam	technical university of denmark
+0	Recycling	technical university of denmark
+0	Julius Petersen	technical university of denmark
+0	Burmeister & Wain	technical university of denmark
+0	Roskilde	technical university of denmark
+0	Technical University of Denmark	technical university of denmark
+1	Technical University of Denmark	technical university of denmark
+2	Technical University of Denmark	technical university of denmark
+3	Technical University of Denmark	technical university of denmark
+4	Technical University of Denmark	technical-university-of-denmark
+5	Technical University of Denmark	technical university of denmark
+6	Technical University of Denmark	technical university of denmark
+7	Technical University of Denmark	technical-university-denmark
+8	Technical University of Denmark	technical university of denmark
+9	Technical University of Denmark	technical university of denmark
+0	Vaccinium vitis-idaea	technical university of denmark
+0	Period 1 element	technical university of denmark
+0	Magnetic refrigeration	technical university of denmark
+0	European eel	technical university of denmark
+0	Gasification	technical university of denmark
+0	Wind power	technical university of denmark
+1	Wind power	technical university of denmark
+0	List of universities and colleges in Denmark	technical university of denmark
+0	Hans Island	technical university of denmark
+0	Henrik Pontoppidan	technical university of denmark
+0	Jakob Nielsen (usability consultant)	technical university of denmark
+1	Jakob Nielsen (usability consultant)	technical university of denmark
+2	Jakob Nielsen (usability consultant)	technical university of denmark
+3	Jakob Nielsen (usability consultant)	technical university of denmark
+0	Technical University of Munich	technical university of denmark
+0	List of oldest universities in continuous operation	technical university of denmark
+0	List of nuclear reactors	technical university]] ==denmark
+0	George de Hevesy	technical university of denmark
+0	James Franck	technical university of denmark
+0	Aarhus University	technical university of denmark
+0	John C. Slater	technical university of denmark
+0	1829 in science	technical university of denmark
+0	Henrik Wann Jensen	technical university of denmark
+0	List of public lecture series	technical university of denmark
+0	Engineering management	technical university of denmark
+0	System identification	technical university of denmark
+0	Cleve Moler	technical university of denmark
+0	Jakob Nielsen (mathematician)	technical university of denmark
+0	Harald Bohr	technical university of denmark
+0	ESC/Java	technical university of denmark
+0	Lars Knudsen	technical university of denmark
+1	Lars Knudsen	technical university of denmark
+0	Hørsholm	technical university of denmark
+0	Per Brinch Hansen	technical university of denmark
+1	Per Brinch Hansen	technical university of denmark
+2	Per Brinch Hansen	technical university of denmark
+3	Per Brinch Hansen	technical university of denmark
+4	Per Brinch Hansen	technical university of denmark
+5	Per Brinch Hansen	technical university of denmark
+0	Danish Society of Engineers	technical university of denmark
+0	Colistin	technical university of denmark
+0	Nanotechnology education	technical university of denmark
+0	Siren Sundby	technical university of denmark
+0	Florin Popențiu Vlădicescu	technical university of denmark
+1	Florin Popențiu Vlădicescu	technical university of denmark
+0	Risø DTU National Laboratory for Sustainable Energy	technical university of denmark
+1	Risø DTU National Laboratory for Sustainable Energy	technical university of denmark
+2	Risø DTU National Laboratory for Sustainable Energy	technical university of denmark
+0	MIFARE	technical university of denmark]], denmark
+1	MIFARE	technical university of denmark
+0	National University of Sciences and Technology (Pakistan)	technical university of denmark
+0	Arctic Technology Centre	technical university of denmark
+0	Horns Rev	technical university of denmark
+0	Gravity Recovery and Climate Experiment	technical university of denmark
+0	Institute of technology	technical university of denmark
+0	Olf (unit)	technical university of denmark
+0	DTH	technical university of denmark
+0	Corynebacterium	technical university of denmark
+0	DTU Space	technical university of denmark
+1	DTU Space	technical university of denmark
+2	DTU Space	technical university of denmark
+0	DTU	technical university of denmark
+0	Ebbe Sand	technical university of denmark
+0	List of Ig Nobel Prize winners	technical university of denmark
+0	Mors (island)	technical university of denmark
+0	Paul Seymour (mathematician)	technical university of denmark
+0	NuSTAR	technical university of denmark
+0	Martin Knudsen	technical university of denmark
+0	Greenland Sea	technical university of denmark
+0	Tarja Cronberg	technical university of denmark
+0	Hans Bruun Nielsen	technical university of denmark
+0	List of campus radio stations	technical university of denmark
+0	Vehicle-to-grid	technical university of denmark
+1	Vehicle-to-grid	technical university of denmark
+2	Vehicle-to-grid	technical university of denmark
+0	Biotecnol	technical university of denmark
+0	DTU Diplom	technical university of denmark
+1	DTU Diplom	technical university of denmark
+0	Concrete canoe	technical university of denmark
+0	Ludwig A. Colding	technical university of denmark
+0	Per Bak	technical university of denmark
+1	Per Bak	technical university of denmark
+0	Dines Bjørner	technical university of denmark
+1	Dines Bjørner	technical university of denmark
+2	Dines Bjørner	technical university of denmark
+0	Zhou Chaochen	technical university of denmark
+1	Zhou Chaochen	technical university of denmark
+2	Zhou Chaochen	technical university of denmark
+0	Com	technical university of denmark
+0	Ove Arup	technical university of denmark
+1	Ove Arup	technical university of denmark
+0	Regensen	technical university of denmark
+1	Regensen	technical university of denmark
+2	Regensen	technical university of denmark
+3	Regensen	technical university of denmark
+0	Elers' Kollegium	technical university of denmark
+0	Playware	technical university of denmark
+1	Playware	technical university of denmark
+2	Playware	technical university of denmark
+0	Cryptomeria cipher	technical university of denmark
+0	Neuroinformatics	technical university of denmark
+0	Charlottenlund Palace	technical university of denmark
+1	Charlottenlund Palace	technical university of denmark
+0	DACAPO	technical university of denmark
+0	CDIO	technical university of denmark
+0	Ludvig Lorenz	technical university of denmark
+0	Peder Oluf Pedersen	technical university of denmark
+1	Peder Oluf Pedersen	technical university of denmark
+2	Peder Oluf Pedersen	technical university of denmark
+0	Lone Dybkjær	technical university of denmark
+0	Relevance vector machine	technical university of denmark
+0	Zero-energy building	technical university of denmark
+0	List of atmospheric dispersion models	technical university of denmark
+0	List of University of Waterloo people	technical university of denmark
+0	Dunin	technical university of denmark
+0	TUD	technical university of denmark
+0	John W. Hutchinson	technical university of denmark
+1	John W. Hutchinson	technical university of denmark
+2	John W. Hutchinson	technical university of denmark
+0	Otto Rössler	technical university of denmark
+0	Henning Holck-Larsen	technical university of denmark
+0	Jørgen Lindegaard	technical university of denmark
+0	Villy Søvndal	technical university of denmark
+0	Hydrogen storage	technical university of denmark
+0	Med-Vet-Net	technical university of denmark
+0	XFM (Denmark)	technical university of denmark
+0	Haldor Topsøe (company)	technical university of denmark
+0	Bjarne Tromborg	technical university of denmark
+1	Bjarne Tromborg	technical university of denmark
+2	Bjarne Tromborg	technical university of denmark
+0	Tesla Roadster	technical university of denmark
+0	William Christopher Zeise	technical university of denmark
+1	William Christopher Zeise	technical university of denmark
+0	Anker Engelund	technical university of denmark
+0	Means-ends analysis	technical university of denmark
+0	Arctic Mars Analog Svalbard Expedition	technical university of denmark
+0	Johannes Theodor Reinhardt	technical university of denmark
+0	Alan Needleman	technical university of denmark
+0	CEN	technical university of denmark
+0	The Animation Workshop	technical university of denmark
+0	Table football	technical university of denmark
+0	Hassan Aref	technical university of denmark
+1	Hassan Aref	technical university of denmark
+2	Hassan Aref	technical university of denmark
+0	Povl Ole Fanger	technical university of denmark
+0	Carsten Thomassen	technical university of denmark
+0	Hans Christian Ørsted	technical university of denmark
+1	Hans Christian Ørsted	technical university of denmark
+0	Technical University of Crete	technical university of denmark
+0	Minion (typeface)	technical university of denmark
+0	Nordisk Kemiteknolog Konferens	technical university of denmark
+1	Nordisk Kemiteknolog Konferens	technical university of denmark
+2	Nordisk Kemiteknolog Konferens	technical university of denmark
+3	Nordisk Kemiteknolog Konferens	technical university of denmark
+0	Intermittent energy source	technical university of denmark
+0	Wendelstein 7-X	technical university of denmark
+0	100 Gigabit Ethernet	technical university of denmark
+1	100 Gigabit Ethernet	technical university of denmark
+0	Peder Vilhelm Jensen-Klint	technical university of denmark
+0	Genetically modified food controversies	technical university of denmark
+0	Wind turbine design	technical university of denmark
+1	Wind turbine design	technical university of denmark
+0	Technical University of Denmark Department of Mathematics	technical university of denmark
+1	Technical University of Denmark Department of Mathematics	technical university of denmark
+2	Technical University of Denmark Department of Mathematics	technical university of denmark
+0	Steen Rasmussen	technical university of denmark
+0	DTU Nanotech	technical university of denmark
+1	DTU Nanotech	technical university of denmark
+0	Stack register	technical university of denmark
+0	Sahib Shihab	technical university of denmark
+0	BYG	technical university of denmark
+0	Erik Christian Clemmensen	technical university of denmark
+1	Erik Christian Clemmensen	technical university of denmark
+0	Danny Lange	technical university of denmark
+0	Energy in Denmark	technical university of denmark
+1	Energy in Denmark	technical university of denmark
+0	Thomas Jakobsen	technical university of denmark
+0	Henrik Svensmark	technical university of denmark
+1	Henrik Svensmark	technical university of denmark
+2	Henrik Svensmark	technical university of denmark
+0	Electron beam-induced deposition	technical university of denmark
+0	Filled Julia set	technical university of denmark
+0	Zhiming Liu (computer scientist)	technical university of denmark
+0	List of nanotechnology organizations	technical university of denmark
+0	Sywoc	technical university of denmark
+1	Sywoc	technical university of denmark
+0	Atmosphere-Space Interaction Monitor	technical university of denmark
+0	DTUsat	technical university of denmark
+0	ICEpower	technical university of denmark
+1	ICEpower	technical university of denmark
+0	Complex quadratic polynomial	technical university of denmark
+0	Ramboll	technical university of denmark
+0	Point distribution model	technical university of denmark
+0	Welltec	technical university of denmark
+0	European Federation of Chemical Engineering	technical university of denmark
+0	Rodney Cotterill	technical university of denmark]], denmark
+1	Rodney Cotterill	technical university of denmark
+2	Rodney Cotterill	technical university of denmark
+0	Harald T. Friis	technical university of denmark
+1	Harald T. Friis	technical university of denmark
+0	Medicon Valley Alliance	technical university of denmark
+1	Medicon Valley Alliance	technical university of denmark
+0	Stockholm Water Prize	technical university of denmark
+0	Rafal E. Dunin-Borkowski	technical university of denmark
+0	Lundtofte	technical university of denmark
+0	European Society for Engineering Education	technical university of denmark
+0	Povl Ahm	technical university of denmark
+1	Povl Ahm	technical university of denmark
+0	Flow injection analysis	technical university of denmark
+0	PROBA2	technical university of denmark
+0	Journal of Graph Theory	technical university of denmark
+0	Center for Electron Nanoscopy	technical university of denmark
+1	Center for Electron Nanoscopy	technical university of denmark
+2	Center for Electron Nanoscopy	technical university of denmark
+3	Center for Electron Nanoscopy	technical university of denmark
+4	Center for Electron Nanoscopy	technical university of denmark
+5	Center for Electron Nanoscopy	technical university of denmark
+6	Center for Electron Nanoscopy	technical university of denmark
+0	Pig toilet	technical university of denmark
+0	Electric-vehicle battery	technical university of denmark
+0	Søren Brunak	technical university of denmark
+1	Søren Brunak	technical university of denmark
+2	Søren Brunak	technical university of denmark
+3	Søren Brunak	technical university of denmark
+4	Søren Brunak	technical university of denmark
+0	Voided biaxial slab	technical university of denmark
+1	Voided biaxial slab	technical university of denmark
+2	Voided biaxial slab	technical university of denmark
+3	Voided biaxial slab	technical university of denmark
+4	Voided biaxial slab	technical university of denmark
+0	College of Advanced Technology	technical university of denmark
+0	TenneT	technical university of denmark
+0	Institute Ice Stream	technical university of denmark
+0	List of brutalist structures	technical university of denmark
+0	Aurora Subglacial Basin	technical university of denmark
+0	Astrolabe Subglacial Basin	technical university of denmark
+0	Adventure Subglacial Trench	technical university of denmark
+0	Nuclear export signal	technical university of denmark
+0	Wind energy software	technical university of denmark
+1	Wind energy software	technical university of denmark
+0	Meta-IV (specification language)	technical university of denmark
+0	WAsP	technical university of denmark]], [[denmark
+1	WAsP	technical university of denmark
+0	Yan Junqi	technical university of denmark
+0	European Food Information Resource Network	technical university of denmark
+0	Brede, Denmark	technical university of denmark
+0	Steven Yearley	technical university of denmark
+0	Index of Denmark-related articles	technical university of denmark
+0	Wind-powered vehicle	technical university of denmark
+0	Conference on Information Technology, Organisations and Teams	technical university of denmark]] (denmark
+1	Conference on Information Technology, Organisations and Teams	technical university of denmark
+0	List of CubeSats	technical university of denmark
+0	DTU Campus Village	technical university of denmark
+1	DTU Campus Village	technical university of denmark
+2	DTU Campus Village	technical university of denmark
+3	DTU Campus Village	technical university of denmark
+0	Henrik O. Madsen	technical university of denmark
+0	Super grid	technical university of denmark
+0	Børge Jessen	technical university of denmark
+0	"List of institutions using the term ""institute of technology"" or ""polytechnic"""	technical university of denmark
+0	University of the Arctic members	technical university of denmark
+0	Brüel & Kjær	technical university of denmark
+0	History of Marine Animal Populations	technical university, denmark
+0	Biological network	technical university of denmark
+0	DADIU	technical university of denmark
+0	Jalkanen	technical university of denmark
+0	Karl James Jalkanen	technical university of denmark
+1	Karl James Jalkanen	technical university of denmark
+2	Karl James Jalkanen	technical university of denmark
+0	Søren Kristian Toubro	technical university of denmark
+0	Zhang Hongjiang	technical university of denmark
+1	Zhang Hongjiang	technical university of denmark
+0	Jakob Stoustrup	technical university of denmark
+1	Jakob Stoustrup	technical university of denmark
+2	Jakob Stoustrup	technical university of denmark
+3	Jakob Stoustrup	technical university of denmark
+4	Jakob Stoustrup	technical university of denmark
+0	European Community Reference Laboratory for Fish Diseases	technical university of denmark
+0	BioSim	technical university of denmark
+0	Henning Larsen Architects	technical university of denmark
+1	Henning Larsen Architects	technical university of denmark
+0	McStas	technical university of denmark
+1	McStas	technical university of denmark
+2	McStas	technical university of denmark
+3	McStas	technical university of denmark
+0	List of wireless sensor nodes	technical university of denmark
+0	Horns Rev 2	technical university of denmark
+0	Department of Informatics and Mathematical Modelling, Technical University of Denmark	technical university of denmark
+1	Department of Informatics and Mathematical Modelling, Technical University of Denmark	technical university of denmark]] {{denmark
+2	Department of Informatics and Mathematical Modelling, Technical University of Denmark	technical university of denmark
+0	ENI award	technical university of denmark
+0	THE–QS World University Rankings, 2004	technical university of denmark|denmark
+1	THE–QS World University Rankings, 2004	technical university of denmark
+0	THE–QS World University Rankings, 2005	technical university of denmark|denmark
+1	THE–QS World University Rankings, 2005	technical university of denmark
+0	THE–QS World University Rankings, 2006	technical university of denmark|denmark
+1	THE–QS World University Rankings, 2006	technical university of denmark
+0	Cycling in Copenhagen	technical university of denmark
+0	THE–QS World University Rankings, 2007	technical university of denmark|denmark
+1	THE–QS World University Rankings, 2007	technical university of denmark
+0	THE–QS World University Rankings, 2008	technical university of denmark|denmark
+1	THE–QS World University Rankings, 2008	technical university of denmark
+0	Chalmers Naval Architecture Students' Society	technical university of denmark
+0	Peter Laut	technical university of denmark
+1	Peter Laut	technical university of denmark
+2	Peter Laut	technical university of denmark
+0	Visions-Partiet	technical university of denmark
+0	Christian Fenger	technical university of denmark
+0	THE–QS World University Rankings, 2009	technical university of denmark|denmark
+1	THE–QS World University Rankings, 2009	technical university of denmark
+0	Anders Eldrup	technical university of denmark
+0	Slowed rotor	technical university of denmark
+0	Frederik Johnstrup	technical university of denmark
+0	Copenhagen Stocks House	technical university of denmark
+1	Copenhagen Stocks House	technical university of denmark
+0	Hans Jørgen Holm	technical university of denmark
+0	Avizo (software)	technical university of denmark
+0	Villum Foundation	technical university of denmark
+0	Neo Sans	technical university of denmark
+0	Johan Daniel Herholdt	technical university of denmark
+1	Johan Daniel Herholdt	technical university of denmark
+0	Erik Reitzel	technical university of denmark
+1	Erik Reitzel	technical university of denmark
+0	The Design Society	technical university of denmark
+0	Christensen & Co	technical university of denmark
+0	Michael Christensen (architect)	technical university of denmark
+0	Solar Decathlon Europe	technical university of denmark
+0	Collocation (remote sensing)	technical university of denmark
+0	Bispebjerg Bakke (building)	technical university of denmark
+0	Polyt V	technical university of denmark
+1	Polyt V	technical university of denmark
+2	Polyt V	technical university of denmark
+0	Blackbird (land yacht)	technical university of denmark
+1	Blackbird (land yacht)	technical university of denmark
+0	Belgica Subglacial Highlands	technical university of denmark
+0	Performance Ranking of Scientific Papers for World Universities	technical university of denmark
+1	Performance Ranking of Scientific Papers for World Universities	technical university of denmark
+0	Christian Hedemann	technical university of denmark
+0	International Society for Structural and Multidisciplinary Optimization	technical university of denmark
+0	Byrd Subglacial Basin	technical university of denmark
+0	Vostok Subglacial Highlands	technical university of denmark
+0	Webb Subglacial Trench	technical university of denmark
+0	Porpoise Subglacial Highlands	technical university of denmark
+0	Mount Drewry	technical university of denmark
+0	Ellsworth Subglacial Highlands	technical university of denmark
+0	Peacock Subglacial Trench	technical university of denmark
+0	Hercules Dome	technical university of denmark
+0	Talos Dome	technical university of denmark
+0	Southern Cross Subglacial Highlands	technical university of denmark
+0	Radiant cooling	technical university of denmark
+0	Thiel Trough	technical university of denmark
+0	Taylor Dome	technical university of denmark
+0	Vincennes Subglacial Basin	technical university of denmark
+0	Resolution Subglacial Highlands	technical university of denmark
+0	Sven Risom	technical university of denmark
+0	Morten Bo Madsen	technical university of denmark
+0	NordBEC	technical university of denmark
+0	Denmark–Netherlands relations	technical university of denmark
+0	ChemProt	technical university of denmark
+0	Christian Karsten Hansen	technical university of denmark
+0	International Commission for Acoustics	technical university of denmark
+0	Johannes Emil Gnudtzmann	technical university of denmark
+1	Johannes Emil Gnudtzmann	technical university of denmark
+0	Øster Voldgade	technical university of denmark
+0	List of aircraft (P)	technical university of denmark
+0	Scandinavian Conference on Image Analysis	technical university, denmark
+0	Nanotough	technical university of denmark]], denmark
+1	Nanotough	technical university of denmark
+0	Povl Baumann	technical university of denmark
+0	Asger Ostenfeld	technical university of denmark
+0	1829 in Denmark	technical university of denmark
+0	List of educational institutions in Denmark	technical university of denmark
+0	List of modern universities in Europe (1801–1945)	technical university of denmark|dtu]] | denmark
+1	List of modern universities in Europe (1801–1945)	technical university of denmark
+0	Regularized canonical correlation analysis	technical university of denmark
+0	Kai Grjotheim	technical university of denmark
+1	Kai Grjotheim	technical university of denmark
+0	2014 in spaceflight	technical university of denmark
+0	Mikael Bols	technical university of denmark
+1	Mikael Bols	technical university of denmark
+2	Mikael Bols	technical university of denmark
+3	Mikael Bols	technical university of denmark
+0	Danske Commodities	technical university of denmark
+0	DTU Roadrunners	technical university of denmark
+1	DTU Roadrunners	technical university of denmark
+0	List of institutions accredited by AMBA	technical university of denmark
+0	SIN (Substitute It Now!) List	technical university of denmark
+1	SIN (Substitute It Now!) List	technical university of denmark. denmark
+2	SIN (Substitute It Now!) List	technical university of denmark
+0	Streeter–Phelps equation	technical university of denmark
+0	JModelica.org	technical university of denmark
+0	Søren Absalon Larsen	technical university of denmark
+1	Søren Absalon Larsen	technical university of denmark
+2	Søren Absalon Larsen	technical university of denmark
+0	Danish Pile Driving formula	technical university of denmark
+0	Schmallenberg virus	technical university of denmark
+0	Knudsen equation	technical university of denmark
+0	Polarization mixing	technical university of denmark
+0	Eva Koppel	technical university of denmark
+0	Dynamo 7.0	technical university of denmark
+1	Dynamo 7.0	technical university of denmark
+2	Dynamo 7.0	technical university of denmark
+3	Dynamo 7.0	technical university of denmark
+0	Biopeople	technical university of denmark
+0	List of college towns	technical university in prague]]) ===denmark
+1	List of college towns	technical university of denmark
+0	PRESENT	technical university of denmark
+1	PRESENT	technical university of denmark
+0	Jens Norskov	technical university of denmark
+0	Torben Larsen	technical university of denmark
+1	Torben Larsen	technical university of denmark
+0	Mikkel Thorup	technical university of denmark
+1	Mikkel Thorup	technical university of denmark
+0	Hector Frederik Estrup Jungersen	technical university of denmark
+0	Danish Academy of Digital, Interactive Entertainment	technical university of denmark
+0	CAPEC	technical university of denmark
+1	CAPEC	technical university of denmark
+0	McXtrace	technical university of denmark
+1	McXtrace	technical university of denmark
+0	Food composition data	technical university of denmark
+0	Holger Hammerich	technical university of denmark
+0	Jens Nielsen	technical university of denmark
+1	Jens Nielsen	technical university of denmark
+2	Jens Nielsen	technical university of denmark
+0	Axel Berg (architect)	technical university of denmark
+1	Axel Berg (architect)	technical university of denmark
+0	Global microbial identifier	technical university of denmark
+1	Global microbial identifier	technical university of denmark
+2	Global microbial identifier	technical university of denmark
+0	Italo Jose Dejter	technical university of denmark
+0	Bohr family	technical university of denmark
+1	Bohr family	technical university of denmark
+0	Van Stadens Wind Farm	technical university of denmark
+0	Erik Quistgaard	technical university of denmark
+0	Hempel Group	technical university of denmark
+1	Hempel Group	technical university of denmark
+0	Jannette B. Frandsen	technical university of denmark
+1	Jannette B. Frandsen	technical university of denmark
+2	Jannette B. Frandsen	technical university of denmark
+0	William Hovgaard	technical university of denmark
+0	Séralini affair	technical university of denmark
+1	Séralini affair	technical university of denmark
+2	Séralini affair	technical university of denmark
+0	Iribarren number	technical university of denmark
+0	Nils Otto Myklestad	technical university of denmark
+1	Nils Otto Myklestad	technical university of denmark
+0	Sølvgade	technical university of denmark
+0	THE–QS World University Rankings, 2013	technical university of denmark
+0	Harold M. Westergaard	technical university of denmark
+0	Peter Pruzan	technical university of denmark
+0	Ivar Knudsen	technical university of denmark
+0	Charles M. Hansen	technical university of denmark
+1	Charles M. Hansen	technical university of denmark
+0	Palle Bruun	technical university of denmark
+0	Radiant heating and cooling system	technical university of denmark
+0	OpenPHACTS	technical university of denmark
+0	International Year of Light	technical university of denmark
+0	Per Vilhelm Brüel	technical university of denmark
+1	Per Vilhelm Brüel	technical university of denmark
+0	Østerild Wind Turbine Test Field	technical university of denmark
+0	Henrik Stiesdal	technical university of denmark
+0	Erling Følner	technical university of denmark
+0	Anton-Schmidt equation of state	technical university of denmark
+0	Technologist (magazine)	technical university of denmark
+1	Technologist (magazine)	technical university of denmark
+0	Agnar Höskuldsson	technical university of denmark
+1	Agnar Höskuldsson	technical university of denmark
+2	Agnar Höskuldsson	technical university of denmark
+3	Agnar Höskuldsson	technical university of denmark
+0	LargeNetwork	technical university of denmark
+0	ETOX	technical university of denmark
+0	Dynamo 9.0	technical university of denmark
+0	List of countries by meat consumption	technical university of denmark
+0	Ludvig Brandstrup	technical university of denmark
+0	Søren Georg Jensen	technical university of denmark
+0	Bogazici University Sports Fest	technical university * denmark
+0	Transmission loss (duct acoustics)	technical university of denmark
+0	Federal Institute for Risk Assessment	technical university of denmark
+1	Federal Institute for Risk Assessment	technical university of denmark
+0	Bodil Branner	technical university of denmark
+1	Bodil Branner	technical university of denmark
+0	Ben Munk	technical university of denmark
+0	Rørbæk & Møller Arkitekter	technical university of denmark
+1	Rørbæk & Møller Arkitekter	technical university denmark
+2	Rørbæk & Møller Arkitekter	technical-university-denmark
+0	C1orf173	technical university of denmark
+0	Zen (microarchitecture)	technical university of denmark
+0	IEA-EBC Annex 66: Definition and Simulation of Occupant Behavior in Buildings	technical university of denmark
+1	IEA-EBC Annex 66: Definition and Simulation of Occupant Behavior in Buildings	technical university of denmark
+0	Technical Committee on VLSI	technical university of denmark, denmark
+1	Technical Committee on VLSI	technical university of denmark
+2	Technical Committee on VLSI	technical university of denmark
+0	Jens Dall Bentzen	technical university of denmark
+0	Birgit Aagard-Svendsen	technical university of denmark
+0	Open Energy Modelling Initiative	technical university of denmark
+0	Edvard Jünger	technical university of denmark
+0	Signe Kongebro	technical university of denmark
+0	Christian Juel	technical university of denmark
+1	Christian Juel	technical university of denmark
+2	Christian Juel	technical university of denmark
+0	Ellen Louise Mertz	technical university of denmark
+1	Ellen Louise Mertz	technical university of denmark
+2	Ellen Louise Mertz	technical university of denmark
+0	Scion DTU	technical university of denmark
+1	Scion DTU	technical university of denmark
+0	Bülowsvej	technical university of denmark
+0	Dansk Datamatik Center	technical university of denmark
+1	Dansk Datamatik Center	technical university of denmark
+0	SensUs	technical university of denmark
+1	SensUs	technical university of denmark
+0	DTU Vet, National Veterinary Institute	technical university of denmark
+1	DTU Vet, National Veterinary Institute	technical university of denmark
+2	DTU Vet, National Veterinary Institute	technical-university-denmark
+3	DTU Vet, National Veterinary Institute	technical university denmark
+4	DTU Vet, National Veterinary Institute	technical university of denmark
+0	Kattegatcentret	technical university of denmark
+0	Hovedstadens Letbane	technical university of denmark
+1	Hovedstadens Letbane	technical university of denmark
+0	Haldor Topsøe (1913–2013)	technical university of denmark
+1	Haldor Topsøe (1913–2013)	technical university of denmark
+0	Lundtofte Flyveplads	technical university of denmark
+1	Lundtofte Flyveplads	technical university of denmark
+0	Henrik Wenzel	technical university of denmark
+1	Henrik Wenzel	technical university of denmark
+2	Henrik Wenzel	technical university of denmark
+3	Henrik Wenzel	technical university of denmark
+0	Cubo Architects	technical university of denmark
+0	DHI (company)	technical university of denmark
+0	Nanocem	technical university of denmark
+0	Tommy Bonnesen	technical university of denmark
+0	Lars Mathias Blank	technical university of denmark
+0	Netsci Conference	technical university, denmark
+0	Kristianiagade	technical university of denmark
+0	Balder Onarheim	technical university of denmark
+1	Balder Onarheim	technical university of denmark
+0	Rigensgade	technical university of denmark
+0	Prince (cipher)	technical university of denmark
+0	Nordic Council Environment Prize	technical university of denmark]] | denmark
+1	Nordic Council Environment Prize	technical university of denmark
+0	Juul Frost Arkitekter	technical university of denmark
+0	Christian Waagepetersen	technical university of denmark
+0	List of research stations in the Arctic	technical-university-denmark
+1	List of research stations in the Arctic	technical university of denmark
+0	Magnetometer (Juno)	technical university of denmark
+1	Magnetometer (Juno)	technical university of denmark
+0	Bettina Hauge	technical university of denmark
+1	Bettina Hauge	technical university of denmark
+0	Seaborg Technologies	technical university of denmark
+0	SHIFT Business Festival (event)	technical university of denmark
+0	VORF	technical university of denmark
+0	3DXRD	technical university of denmark
+0	Jorgen Arendt Jensen	technical university of denmark
+0	Klavs F. Jensen	technical university of denmark
+1	Klavs F. Jensen	technical university of denmark
+0	3Shape	technical university of denmark
+0	Thor experiment	technical university of denmark
+0	Steen Lichtenberg	technical university of denmark
+1	Steen Lichtenberg	technical university of denmark
+2	Steen Lichtenberg	technical university of denmark
+3	Steen Lichtenberg	technical university of denmark
+4	Steen Lichtenberg	technical university of denmark
+0	NUST Islamabad	technical university of denmark

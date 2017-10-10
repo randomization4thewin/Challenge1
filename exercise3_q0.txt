@@ -1,0 +1,184 @@
+	Article	Match
+0	Elephant	elephants are native to
+1	Elephant	elephants are not indigenous to
+2	Elephant	elephants are known to
+3	Elephant	elephants are among the [[to
+4	Elephant	elephants are used to
+5	Elephant	elephants are alleged to
+6	Elephant	elephants in warfare spread west to
+7	Elephant	elephants are ubiquito
+0	Odd-toed ungulate	elephants and hyraxes are now considered to
+0	Xiangqi	elephants are often used to
+0	Chili pepper	elephants are reluctant to
+0	Ptolemy I Soter	elephants.jpg|a rare coin of pto
+0	Antiochus V Eupator	elephants. lysias dared do nothing to
+0	Big five game	elephants are difficult to
+0	Barbie	elephants and orangutans are being pushed to
+0	Execution by elephant	elephants are widely reported to
+0	African forest elephant	elephants (mature males) are sometimes known to
+1	African forest elephant	elephants are killed every year to
+2	African forest elephant	elephants are estimated to
+3	African forest elephant	elephants_are_being_massacred_into
+4	African forest elephant	elephants are being massacred into
+0	War elephant	elephants was relatively rare compared to
+1	War elephant	elephants are now more valuable to
+0	Asian elephant	elephants are native to
+1	Asian elephant	elephants are known to
+2	Asian elephant	elephants are reported to go to
+3	Asian elephant	elephants are reported to
+4	Asian elephant	elephants are native to
+5	Asian elephant	elephants are able to
+6	Asian elephant	elephants are used for safari to
+7	Asian elephant	elephants are taught to
+8	Asian elephant	elephants are secured tightly to
+9	Asian elephant	elephants are known to
+0	Mahout	elephants' caretakers are referred to
+0	Udawalawe National Park	elephants are attracted to
+0	Janggi	elephants are not limited to
+0	Arthashastra	elephants that are to
+0	Battle of Ipsus	elephants and are loath to
+0	Musth	elephants in musth are traditionally tied to
+0	Elephas	elephants are native to
+0	Montgomery Zoo	elephants are the hoofsto
+0	University of Nebraska State Museum	elephants. also featured are interactive paleonto
+0	Stock car (rail)	elephants are custo
+0	Jimbo and the Jet-Set	elephants are when he helps to
+0	Bannerghatta National Park	elephants are absolutely free to
+0	Dwarf elephant	elephants''' are prehisto
+0	Battle of Gaza (312 BC)	elephants apparently hoping to
+0	African elephant	elephants are able to
+1	African elephant	elephants are confined to
+0	Dharma-yuddha	elephants are not supposed to
+0	Pilanesberg Game Reserve	elephants and are now restricted to
+0	Tesso Nilo National Park	elephants's faeces are being conducted to
+0	Cox's Bazar	elephants which are native to
+0	Columbian mammoth	elephants|size (blue) compared to
+0	Tom-Yum-Goong	elephants are sto
+1	Tom-Yum-Goong	elephants are sto
+0	Elephants in Kerala culture	elephants in kerala are often referred to
+1	Elephants in Kerala culture	elephants are forced to
+0	Center for Elephant Conservation	elephants are permitted to
+0	Elephant crushing	elephants are to
+1	Elephant crushing	elephants are then beaten into
+0	Tarzan's New York Adventure	elephants who are chained to
+0	Animal-made art	elephants are trained to
+0	White elephant (animal)	elephants are assigned to
+0	Medieval II: Total War	elephants are most known to
+0	Culture of Kerala	elephants in kerala are often referred to
+0	Sri Lankan elephant	elephants are restricted mostly to
+1	Sri Lankan elephant	elephants, and two others are reputed to
+2	Sri Lankan elephant	elephants are killed to
+0	Punnathurkotta	elephants here are trained to
+0	Tarzan, Lord of the Jungle	elephants that are friendly to
+1	Tarzan, Lord of the Jungle	elephants, tarzan and ziller are then to
+0	Marcel Berlins	elephants are out to sto
+1	Marcel Berlins	elephants are out to
+0	Kerala	elephants are referred to
+0	Pygmy elephant	elephants are native to
+0	Khan Kluay	elephants are working to
+0	List of Danger Mouse episodes	elephants are being turned into
+0	Kollam Pooram	elephants are split into
+0	Moolakaraipatti	elephants and tigers are plenty. === to
+0	Borneo elephant	elephants]] elephants are confined to
+1	Borneo elephant	elephants are confined to
+2	Borneo elephant	elephants are estimated to
+3	Borneo elephant	elephants are native to
+0	Ambajogai	elephants are carved in sto
+0	Stereotypes of animals	elephants are able to
+0	Lawrence Anthony	elephants who appeared to
+1	Lawrence Anthony	elephants-hold-apparent-vigil-to
+0	Noah's Island	elephants who are struggling to
+0	Mount Elgon National Park	elephants and other mammals are major contributors to
+1	Mount Elgon National Park	elephants and other mammals are major contributo
+0	Allan Savory	elephants, when they appeared to
+0	Syrian elephant	elephants are believed to
+0	Ilkal saree	elephants and lotuses which are embroidered onto
+0	Elephant cognition	elephants are believed to
+1	Elephant cognition	elephants are believed to
+2	Elephant cognition	elephants are thought to
+3	Elephant cognition	elephants are able to
+4	Elephant cognition	elephants are able to
+5	Elephant cognition	elephants are almost predisposed to
+0	Wildlife of Cameroon	elephants are reported to
+0	Elefunk	elephants; the bridges are built to
+0	Wildlife of Somalia	elephants are migrato
+0	Peopling of China	elephants are known to
+0	Tool use by animals	elephants are known to create to
+1	Tool use by animals	elephants are known to
+0	Forestry in Bangladesh	elephants]] are still used to
+0	Chettikulangara Devi Temple	elephants are not taken to
+0	Elefantasia	elephants are employed to
+0	Allen Forest Zoo	elephants that are brought into
+0	Battle of al-Qādisiyyah	elephants. however, jareer's cavalry was sto
+0	Pilkhana, Bangladesh	elephants are a part of its histo
+0	Wildlife Alliance	elephants are known to
+0	Anand Aur Anand	elephants who are made to
+0	Dulhazra Safari Park	elephants which are native to
+0	List of The Legend of Tarzan episodes	elephants are forced to move to
+1	List of The Legend of Tarzan episodes	elephants are forced to
+0	Aanayoottu	elephants are integral to
+0	Hurulu Forest Reserve	elephants are returning to
+0	Elephantstay	elephants which are to
+0	Floppy trunk syndrome	elephants are being forced to
+0	Kodungallur Bhagavathy Temple	elephants are taken out to
+0	Udawalawe Elephant Transit Home	elephants being fed, they are not allowed to to
+1	Udawalawe Elephant Transit Home	elephants being fed, they are not allowed to
+0	Mela shikar	elephants are illegal, but prior to
+0	Koonki	elephants. they are used to
+0	Temple of the Tooth	elephants are depicted in sto
+0	Lunugamvehera National Park	elephants. the catchment area is vital to
+1	Lunugamvehera National Park	elephants are starved to
+0	Feces	elephants are used to
+0	Minneriya National Park	elephants are known to
+1	Minneriya National Park	elephants are known to
+0	Tooth	elephants are believed to
+0	Minkhaung I	elephants and ava's share of custo
+0	Culture of Thrissur	elephants and all efforts are made by each party to
+0	Kapilar	elephants are tied to
+0	Vēl Pāri	elephants are tied to
+0	The Elephants	elephants are believed to
+0	Mammal tooth	elephants are believed to
+0	Seismic communication	elephants are able to
+0	Kakiemon elephants (British Museum)	elephants are thought to
+0	Earth: Voices of a Planet	elephants, are to
+0	Arignar Anna Zoological Park	elephants, are brought to
+0	David Sulzer	elephants are said to
+0	International Elephant Foundation	elephants in the area, obtain aerial photo
+1	International Elephant Foundation	elephants are forced to
+0	Thrichittatt Maha Vishnu Temple	elephants are paraded to
+0	Female copulatory vocalizations	elephants are also used in order to
+0	Buffalo Springs National Reserve	elephants, and its twigs are used as to
+0	Evolutionary anachronism	elephants, they are presumed to
+0	Millennium Elephant Foundation	elephants are taken to
+0	Dong Ampham National Biodiversity Conservation Area	elephants and large cats are known to
+0	Captive elephants	elephants]] are less amenable to
+1	Captive elephants	elephants are thought to
+0	Myopia in animals	elephants and other animals are said to
+0	Crime in Thailand	elephants are to
+0	Black Ivory Coffee	"elephants' health care.<ref name= ""usato"
+0	Elephant racing	elephants. elephants are entered into
+1	Elephant racing	elephants are entered into
+0	Belgium–Indonesia relations	elephants are a special gift to
+0	Raymond M. Alf Museum of Paleontology	elephants. there are more of skeleto
+0	Desert elephant	elephants are expected to
+0	Pampadi Rajan	elephants are chosen to
+0	Pombia Safari Park	elephants'' are to
+0	National Elephant Day (Thailand)	elephants are to
+0	Kenya–United Kingdom relations	elephants, and are said to
+0	Patara Elephant Farm	"elephants are born.<ref name=""auto"
+1	Patara Elephant Farm	elephants are. visito
+2	Patara Elephant Farm	elephants they are paired with. visito
+3	Patara Elephant Farm	elephants are at the farm, visito
+4	Patara Elephant Farm	elephants are led to
+5	Patara Elephant Farm	"elephants"" are used to give to"
+6	Patara Elephant Farm	"elephants"" are used to"
+7	Patara Elephant Farm	elephants are to
+0	Elephants in Thailand	elephants are divided into
+1	Elephants in Thailand	elephants in [[thailand]] are considered to
+0	When Elephants Were Young	elephants in thailand are forced into
+0	Pete Oxford	elephants are safe] (huffingto
+0	Animal welfare in Thailand	elephants are to
+0	List of Little Bill episodes	elephants, but there are many other animals to
+0	Wildlife Friends Foundation Thailand	elephants are being killed for to
+1	Wildlife Friends Foundation Thailand	elephants-are-being-killed-for-to
+0	Wildlife SOS	elephants are under threat due to
